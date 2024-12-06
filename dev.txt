@@ -2,6 +2,5 @@ Tui la dev2dsd
 Tui la dev 1sdsd
 sd
 Tui la dev 1 co viec
-Tui la dev2 
-Tui them dong dev 2
+Tui dang o nhanh Thanh
 
