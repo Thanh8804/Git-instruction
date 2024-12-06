@@ -1,3 +1,6 @@
 dev 2 dang code
 dev 1 dang code 
 
+dev 1 dang code 
+dev 1 dang code tinh nang a
+dev 1 dang code tinh nang b
